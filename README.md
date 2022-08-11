@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yogaconnex
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning programming in r and python. I am a beginner 
-- 💞️ I’m looking to collaborate on any topics looking at health data 
+- 💞️ I’m looking to collaborate on any topics looking at health data and yoga
 - 📫 How to reach me yogaconnex@gmail.com
 
 <!---
